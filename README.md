@@ -1,5 +1,5 @@
 # Docker-Project
-This conatins project related Docker and its components like containers, images and docker-compose
+This contains project related Docker and its components like containers, images and docker-compose
 
 To create this project we have to setup our environment:
 
@@ -39,6 +39,6 @@ To create this project we have to setup our environment:
 	Enter Your Choice
 ![user-interface](https://github.com/rohitm17/Docker---Project/blob/master/last.png)	
 <PRE>	
-#ANY QUERY IN REGARD OF PROJECT THEN CONTACT Email: rohit.1705.mittal@gmail.com
-#FOR ANY SUGGESTIONS REACH ME ON LINKEDIN : https://www.linkedin.com/in/rohitm17/
+#ANY QUERY IN REGARD OF PROJECT THEN CONTACT Email: manavkarnani9@gmail.com
+#FOR ANY SUGGESTIONS REACH ME ON LINKEDIN :https://www.linkedin.com/in/manmohan-karnani-412356129/
 </PRE>
